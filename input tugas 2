@@ -1,0 +1,39 @@
+<html>
+  <head></head>
+  <body style="background-color: lightskyblue;">
+    <h2 style="color: mediumblue;">SMKN 3 Tuban</h2>
+     <p style="color: white;"> Belajar HTML<br>
+          HTML adalah bahasa markup untuk membuat website.<br>
+          Hari ini kita belajar Heading dan Paragraph.</p>
+   <img width="150" height="150" src="https://seneng.web.id/logo/images/logo-smk-negeri-3-tuban.jpg">
+   <img width="150" height="150" src="https://smkn3tuban.sch.id/wp-content/uploads/2018/01/TPM.png">
+   <img width="150" height="150" src="https://smkn3tuban.sch.id/wp-content/uploads/2018/01/TKR.png">
+   <img width="150" height="150" src="https://smkn3tuban.sch.id/wp-content/uploads/2018/01/RPL.png">
+   <img width="150" height="150" src="https://smkn3tuban.sch.id/wp-content/uploads/2018/01/KI.png">
+   <img width="150" height="150" src="https://smkn3tuban.sch.id/wp-content/uploads/2018/01/APL.png">
+   <img width="150" height="150" src="https://smkn3tuban.sch.id/wp-content/uploads/2018/01/TB.png">
+   <img width="150" height="150" src="https://smkn3tuban.sch.id/wp-content/uploads/2018/01/TPTU.png">
+   
+    <h3 style="color: blue;"> Visi </h3>
+     <p style="color: white;">Mencetak generasi berkarakter Pancasila, kompeten, berdaya saing tinggi dan peduli lingkungan serta memberikan pelayanan prima</p>
+    <h3 style="color: blue;"> Misi</h3>
+    <ol style="color: white;">
+      <li>Meningkatkan kegiatan keagamaan untuk membentuk insan yang religius, menumbuhkan cinta pada sesama dan alam sekitarnya.</li>
+      <li>Memperbanyak Pendidikan dan Pelatihan Karakter secara terus menerus untuk menumbuhkan semangat keunggulan dan meningkatkan daya saing peserta didi.</li> 
+      <li>Melaksanakan pembelajaran sesuai Kurikulum 2013 secara optimal yang berorientası kepada pencapaian kompetensi berstandar nasional.</li>
+      <li>Memberikan pelayaan prima berbasis Teknologi Informasi kepada peserta didik, orang tua / wali murid dan stake holder lainnya.</li>
+      <li>Memberikan Pembelajaran dan kegiatan keagamaan untuk menumbuhkan semangat jiwa antı korupsi.</li>
+      <li>Membudayakan hidup sehat dan peduli lingkungan.</li>
+ </ol>
+    <h3 style="color: blue;"> Jurusan </h3>
+    <ul style="list-style-type: circle; color: white;">
+      <li>TPM</li>
+      <li>TKR</li>
+      <li>RPL</li>
+      <li>TKI</li>
+      <li>APL</li>
+      <li>KULINER</il>
+      <li>TPTU</li>
+    </ul>
+  </body>
+</html>
